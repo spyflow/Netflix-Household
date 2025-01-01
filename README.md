@@ -1,8 +1,7 @@
-
 # **Netflix Household Bypass (Version 8.141.1 Build 13 51230)**  
 
 ## **Overview**  
-In Netflix version **8.141.1 (Build 13 51230)**, it is possible to bypass the household restriction by opening the application with a specific link. This allows access without requiring the device to be registered within the primary household network.  
+In Netflix version **8.141.1 (Build 13 51230)**, it is possible to bypass the household restriction by opening the application with a specific link. This allows access without requiring the device to [...]
 
 ---
 
@@ -24,12 +23,13 @@ To bypass the household restriction, simply open Netflix using the following lin
 
 - **Usage:**  
   Copy and paste the link directly into your browser or a web-based app opener to start Netflix without household restrictions.  
+  - **Note:** This may not work if the Netflix app was previously opened when using the link.
 
 ---
 
 ## **Disclaimer**  
 This repository is for **educational and informational purposes only**.  
-We do **not encourage or promote** unauthorized access to any service. Use this information responsibly and in compliance with Netflixâ€™s terms of service.  
+We do **not encourage or promote** unauthorized access to any service. Use this information responsibly and in compliance with Netflix's terms of service.  
 
 ---
 
